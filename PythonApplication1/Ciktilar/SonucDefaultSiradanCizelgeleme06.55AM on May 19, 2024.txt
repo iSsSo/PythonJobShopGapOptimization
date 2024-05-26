@@ -1,0 +1,782 @@
+
+Dosya Adi: \abz5_0c3c3d3dd6eb9dda57c029b083b62249_solution_order.txt
+
+Dosya Adi: \abz5_0c3c3d3dd6eb9dda57c029b083b62249_solution_start.txt
+
+Dosya Adi: \abz5_41b9efeaba765126b19f478fdd0020f9_solution_order.txt
+
+Dosya Adi: \abz5_41b9efeaba765126b19f478fdd0020f9_solution_start.txt
+
+Dosya Adi: \abz5_599cbbc8142ac0bcec1c19e49eaad107_solution_order.txt
+
+Dosya Adi: \abz5_599cbbc8142ac0bcec1c19e49eaad107_solution_start.txt
+
+Dosya Adi: \abz5_660924c07c269b2a5b693c4485f53f8b_solution_order.txt
+
+Dosya Adi: \abz5_660924c07c269b2a5b693c4485f53f8b_solution_start.txt
+
+Dosya Adi: \abz5_73616e15a35d3d06d76ca651b837fb34_solution_order.txt
+
+Dosya Adi: \abz5_73616e15a35d3d06d76ca651b837fb34_solution_start.txt
+
+Dosya Adi: \abz5_77c44fa36f02e101569518e4be0aa3ad_solution_order.txt
+
+Dosya Adi: \abz5_77c44fa36f02e101569518e4be0aa3ad_solution_start.txt
+
+Dosya Adi: \abz5_ac8c0bcfacbcad4bdd2132c4f1862fd3_solution_order.txt
+
+Dosya Adi: \abz5_ac8c0bcfacbcad4bdd2132c4f1862fd3_solution_start.txt
+
+Dosya Adi: \abz5_d260b604a69f0af5d7fda27934813f7b_solution_order.txt
+
+Dosya Adi: \abz5_d260b604a69f0af5d7fda27934813f7b_solution_start.txt
+
+Dosya Adi: \abz5_e3b0b6170319ea5413ad29af3d9608d7_solution_order.txt
+
+Dosya Adi: \abz5_e3b0b6170319ea5413ad29af3d9608d7_solution_start.txt
+
+Dosya Adi: \abz5_fdda83ced7ec995903275db03159582c_solution_order.txt
+
+Dosya Adi: \abz5_fdda83ced7ec995903275db03159582c_solution_start.txt
+
+SiradanCizelgeleme.py
+
+
+ s2Order: 
+
+2	6	10	1	11	13	3	5	9	8	17	4	15	19	0	7	16	18	14	12	
+1	16	19	0	15	10	13	12	4	7	9	5	8	14	2	3	6	11	17	18	
+4	7	8	2	12	18	5	9	11	15	6	10	19	0	14	16	17	1	3	13	
+4	5	14	9	10	1	11	16	8	6	12	19	17	18	2	3	7	0	15	13	
+9	2	16	3	12	0	6	14	4	13	17	18	15	5	10	11	1	7	19	8	
+5	13	14	0	1	3	15	17	18	10	12	16	6	19	7	9	11	4	2	8	
+0	12	5	8	14	15	1	2	4	6	10	11	19	7	3	13	17	18	9	16	
+3	17	19	13	9	15	1	11	4	10	16	2	14	5	6	8	18	12	0	7	
+15	0	16	3	10	13	19	8	12	7	2	18	1	17	9	11	4	5	6	14	
+9	7	15	17	1	3	13	6	12	16	8	14	18	2	10	19	4	5	0	11	
+8	11	14	2	5	16	17	18	4	0	1	3	15	6	9	12	13	7	10	19	
+18	6	19	4	7	9	14	15	0	5	17	12	16	11	13	1	8	2	3	10	
+7	12	4	5	6	14	8	16	1	3	11	0	9	13	2	10	15	19	17	18	
+6	10	17	7	9	11	18	0	3	5	2	13	14	8	19	1	4	12	16	15	
+11	18	13	8	19	0	2	7	10	12	17	16	14	3	4	5	9	1	6	15	
+
+ s2r: 
+
+0	30	62	134	147	169	187	210	336	370	430	464	554	596	632	757	771	800	817	829	
+0	35	50	192	237	472	491	521	566	617	657	693	714	743	767	807	847	864	901	936	
+0	35	51	68	181	248	421	452	463	495	529	563	580	596	767	800	936	949	963	992	
+35	50	83	109	149	176	202	231	276	356	401	456	483	505	544	584	596	619	632	725	
+0	30	65	152	164	181	200	232	313	343	365	398	529	595	633	660	691	725	757	776	
+0	33	55	82	103	134	152	180	213	248	287	306	341	440	456	482	515	667	843	860	
+0	14	83	104	137	205	237	251	281	313	341	361	401	482	596	612	641	671	798	821	
+0	40	86	233	306	336	374	412	429	458	472	494	532	559	595	618	685	711	742	771	
+0	103	116	164	187	201	233	250	276	287	346	425	555	671	767	901	934	963	998	1017	
+27	84	180	241	261	278	365	391	418	494	528	559	599	612	660	776	816	853	893	934	
+68	84	109	137	182	245	267	359	394	421	439	458	574	618	693	742	759	801	899	920	
+60	91	124	157	185	215	262	374	385	452	505	532	563	691	707	725	743	807	847	872	
+51	84	111	142	182	250	312	334	412	432	495	515	526	558	638	682	704	816	949	984	
+0	25	213	241	281	306	340	359	379	395	421	458	477	503	514	543	555	566	599	906	
+0	34	60	84	250	288	323	346	372	390	401	528	599	618	650	714	739	767	864	890	
+
+ job_Order: 
+
+0	82	103	181	192	288	359	385	421	515	596	619	632	742	893	
+0	103	134	176	237	261	374	412	439	543	555	691	725	767	949	
+0	30	68	137	251	323	346	421	494	544	612	638	767	807	843	
+0	134	152	164	187	278	379	432	458	584	596	618	807	847	963	
+0	35	111	157	281	313	394	429	464	555	566	650	667	816	934	
+0	50	83	142	182	210	395	421	452	559	595	693	714	853	963	
+0	30	91	182	200	313	341	356	391	529	595	618	847	864	998	
+35	51	84	185	241	287	346	456	482	596	617	725	757	771	801	
+51	68	84	104	250	276	312	370	503	528	618	714	743	776	860	
+0	27	109	215	281	306	336	452	482	526	657	693	739	767	798	
+25	62	149	187	248	341	372	458	472	563	633	660	682	872	899	
+0	84	147	202	306	361	412	463	495	515	660	691	864	901	934	
+14	84	164	181	276	287	390	401	418	521	532	566	711	742	829	
+33	60	169	201	233	343	365	458	491	558	612	707	725	759	992	
+55	83	109	137	232	250	262	477	532	559	599	743	767	817	1017	
+0	152	180	205	237	336	374	495	529	554	574	632	704	890	906	
+35	65	116	231	245	306	334	472	494	528	563	599	771	800	821	
+40	180	213	241	267	365	401	430	483	505	641	671	901	936	949	
+34	60	213	248	340	359	398	425	505	599	671	685	800	936	984	
+50	86	124	233	250	401	440	456	514	580	596	757	776	816	920	
+
+ As The Jobs 
+
+0_14	82_21	103_13	181_11	192_11	288_35	359_20	385_17	421_18	515_11	596_23	619_13	632_15	742_11	893_35	
+0_35	103_31	134_13	176_26	237_14	261_17	374_38	412_20	439_19	543_12	555_16	691_34	725_15	767_12	949_14	
+0_30	30_35	68_40	137_35	251_30	323_23	346_29	421_37	494_38	544_40	612_26	638_11	767_40	807_36	843_17	
+0_40	134_18	152_12	164_23	187_23	278_14	379_16	432_14	458_23	584_12	596_16	618_32	807_40	847_25	963_29	
+0_35	35_15	111_31	157_28	281_32	313_30	394_27	429_29	464_38	555_11	566_23	650_17	667_27	816_37	934_29	
+0_33	50_33	83_19	142_40	182_19	210_33	395_26	421_31	452_28	559_36	595_38	693_21	714_25	853_40	963_35	
+0_25	30_32	91_33	182_18	200_32	313_28	341_15	356_35	391_14	529_34	595_23	618_32	847_17	864_26	998_19	
+35_16	51_33	84_34	185_30	241_40	287_12	346_26	456_26	482_15	596_21	617_40	725_32	757_14	771_30	801_35	
+51_17	68_16	84_20	104_24	250_26	276_36	312_22	370_14	503_11	528_20	618_23	714_29	743_23	776_15	860_40	
+0_27	27_37	109_40	215_14	281_25	306_30	336_34	452_11	482_15	526_32	657_36	693_12	739_28	767_31	798_23	
+25_25	62_22	149_27	187_14	248_25	341_20	372_18	458_14	472_19	563_17	633_27	660_22	682_22	872_27	899_21	
+0_34	84_15	147_22	202_29	306_34	361_40	412_17	463_32	495_20	515_39	660_31	691_16	864_37	901_33	934_13	
+14_12	84_27	164_17	181_24	276_11	287_19	390_11	401_17	418_25	521_11	532_31	566_33	711_31	742_12	829_22	
+33_22	60_15	169_16	201_32	233_20	343_22	365_11	458_19	491_30	558_33	612_29	707_18	725_34	759_32	992_18	
+55_27	83_26	109_28	137_37	232_18	250_12	262_11	477_26	532_27	559_40	599_19	743_24	767_18	817_12	1017_34	
+0_15	152_28	180_25	205_32	237_13	336_38	374_11	495_34	529_25	554_20	574_32	632_23	704_14	890_16	906_20	
+35_15	65_13	116_37	231_14	245_22	306_24	334_26	472_22	494_34	528_22	563_19	599_32	771_29	800_13	821_35	
+40_36	180_33	213_28	241_20	267_30	365_33	401_29	430_34	483_22	505_12	641_30	671_12	901_35	936_13	949_35	
+34_26	60_31	213_35	248_38	340_19	359_35	398_27	425_29	505_39	599_13	671_14	685_26	800_17	936_22	984_15	
+50_36	86_34	124_33	233_17	250_38	401_39	440_16	456_27	514_29	580_16	596_16	757_19	776_40	816_35	920_39	
+
+
+
+Longest Time On Machines= 563
+Op Puan= 16890 Gap Start= 0 Gap= -30
+Op Puan= 1126 Gap Start= 0 Gap= -2
+Op Puan= 5330 Gap Start= 30 Gap= 10
+Op Puan= 29559 Gap Start= 62 Gap= 59
+Op Puan= 3861 Gap Start= 134 Gap= -9
+Op Puan= 2496 Gap Start= 147 Gap= 6
+Op Puan= 1970 Gap Start= 169 Gap= -5
+Op Puan= 3760 Gap Start= 187 Gap= -10
+Op Puan= 32476 Gap Start= 210 Gap= 92
+Op Puan= 4540 Gap Start= 336 Gap= 20
+Op Puan= 5018 Gap Start= 370 Gap= 26
+Op Puan= 532 Gap Start= 430 Gap= -4
+Op Puan= 6930 Gap Start= 464 Gap= 70
+Op Puan= 234 Gap Start= 554 Gap= 26
+Op Puan= 693 Gap Start= 596 Gap= 21
+Op Puan= 7659 Gap Start= 632 Gap= 111
+Op Puan= 2910 Gap Start= 757 Gap= -15
+Op Puan= 2496 Gap Start= 771 Gap= 12
+Op Puan= 1185 Gap Start= 800 Gap= 5
+Op Puan= 2540 Gap Start= 817 Gap= -10
+Machine Total Puan= 132205
+Op Puan= 19705 Gap Start= 0 Gap= -35
+Op Puan= 11260 Gap Start= 0 Gap= 20
+Op Puan= 11088 Gap Start= 35 Gap= -21
+Op Puan= 67203 Gap Start= 50 Gap= 131
+Op Puan= 11872 Gap Start= 192 Gap= 32
+Op Puan= 70416 Gap Start= 237 Gap= 216
+Op Puan= 1001 Gap Start= 472 Gap= -11
+Op Puan= 1368 Gap Start= 491 Gap= 19
+Op Puan= 924 Gap Start= 521 Gap= 22
+Op Puan= 33 Gap Start= 566 Gap= 11
+Op Puan= 216 Gap Start= 617 Gap= 4
+Op Puan= 1410 Gap Start= 657 Gap= 15
+Op Puan= 1040 Gap Start= 693 Gap= -8
+Op Puan= 755 Gap Start= 714 Gap= 5
+Op Puan= 2880 Gap Start= 743 Gap= -16
+Op Puan= 0 Gap Start= 767 Gap= 0
+Op Puan= 5612 Gap Start= 807 Gap= 23
+Op Puan= 5680 Gap Start= 847 Gap= -20
+Op Puan= 602 Gap Start= 864 Gap= 2
+Op Puan= 4394 Gap Start= 901 Gap= 13
+Machine Total Puan= 217459
+Op Puan= 19705 Gap Start= 0 Gap= -35
+Op Puan= 10697 Gap Start= 0 Gap= 19
+Op Puan= 528 Gap Start= 35 Gap= -1
+Op Puan= 11776 Gap Start= 51 Gap= -23
+Op Puan= 44055 Gap Start= 68 Gap= 89
+Op Puan= 11078 Gap Start= 181 Gap= 29
+Op Puan= 44730 Gap Start= 248 Gap= 142
+Op Puan= 2840 Gap Start= 421 Gap= 20
+Op Puan= 2331 Gap Start= 452 Gap= -21
+Op Puan= 200 Gap Start= 463 Gap= -2
+Op Puan= 0 Gap Start= 495 Gap= 0
+Op Puan= 578 Gap Start= 529 Gap= 17
+Op Puan= 0 Gap Start= 563 Gap= 1
+Op Puan= 119 Gap Start= 580 Gap= -7
+Op Puan= 5049 Gap Start= 596 Gap= 153
+Op Puan= 4080 Gap Start= 767 Gap= 20
+Op Puan= 29151 Gap Start= 800 Gap= 123
+Op Puan= 373 Gap Start= 936 Gap= -1
+Op Puan= 5790 Gap Start= 949 Gap= -15
+Op Puan= 4400 Gap Start= 963 Gap= 11
+Machine Total Puan= 197480
+Op Puan= 11260 Gap Start= 0 Gap= 20
+Op Puan= 9504 Gap Start= 35 Gap= -18
+Op Puan= 3591 Gap Start= 50 Gap= 7
+Op Puan= 6720 Gap Start= 83 Gap= -14
+Op Puan= 5902 Gap Start= 109 Gap= 13
+Op Puan= 414 Gap Start= 149 Gap= 1
+Op Puan= 1161 Gap Start= 176 Gap= -3
+Op Puan= 5415 Gap Start= 202 Gap= 15
+Op Puan= 2988 Gap Start= 231 Gap= 9
+Op Puan= 12915 Gap Start= 276 Gap= 45
+Op Puan= 5796 Gap Start= 356 Gap= 28
+Op Puan= 4536 Gap Start= 401 Gap= 28
+Op Puan= 535 Gap Start= 456 Gap= 5
+Op Puan= 1360 Gap Start= 483 Gap= -17
+Op Puan= 58 Gap Start= 505 Gap= -1
+Op Puan= 532 Gap Start= 544 Gap= 28
+Op Puan= 189 Gap Start= 584 Gap= -9
+Op Puan= 330 Gap Start= 596 Gap= 10
+Op Puan= 560 Gap Start= 619 Gap= -10
+Op Puan= 4071 Gap Start= 632 Gap= 59
+Machine Total Puan= 77837
+Op Puan= 15201 Gap Start= 0 Gap= -27
+Op Puan= 2815 Gap Start= 0 Gap= -5
+Op Puan= 11726 Gap Start= 30 Gap= 22
+Op Puan= 37350 Gap Start= 65 Gap= 75
+Op Puan= 2055 Gap Start= 152 Gap= -5
+Op Puan= 2394 Gap Start= 164 Gap= 6
+Op Puan= 4966 Gap Start= 181 Gap= -13
+Op Puan= 5082 Gap Start= 200 Gap= 14
+Op Puan= 16881 Gap Start= 232 Gap= 51
+Op Puan= 2000 Gap Start= 313 Gap= 8
+Op Puan= 2420 Gap Start= 343 Gap= -11
+Op Puan= 1188 Gap Start= 365 Gap= 6
+Op Puan= 17490 Gap Start= 398 Gap= 106
+Op Puan= 952 Gap Start= 529 Gap= 28
+Op Puan= 352 Gap Start= 595 Gap= 11
+Op Puan= 280 Gap Start= 633 Gap= -4
+Op Puan= 291 Gap Start= 660 Gap= -3
+Op Puan= 256 Gap Start= 691 Gap= 2
+Op Puan= 2106 Gap Start= 725 Gap= 13
+Op Puan= 776 Gap Start= 757 Gap= 4
+Machine Total Puan= 126581
+Op Puan= 18579 Gap Start= 0 Gap= -33
+Op Puan= 6193 Gap Start= 0 Gap= 11
+Op Puan= 2650 Gap Start= 33 Gap= -5
+Op Puan= 3048 Gap Start= 55 Gap= 6
+Op Puan= 4810 Gap Start= 82 Gap= -10
+Op Puan= 5980 Gap Start= 103 Gap= 13
+Op Puan= 4290 Gap Start= 134 Gap= -10
+Op Puan= 2055 Gap Start= 152 Gap= -5
+Op Puan= 766 Gap Start= 180 Gap= -2
+Op Puan= 3500 Gap Start= 213 Gap= 10
+Op Puan= 6300 Gap Start= 248 Gap= 20
+Op Puan= 1380 Gap Start= 287 Gap= -5
+Op Puan= 5140 Gap Start= 306 Gap= 20
+Op Puan= 18426 Gap Start= 341 Gap= 83
+Op Puan= 1230 Gap Start= 440 Gap= -10
+Op Puan= 1177 Gap Start= 456 Gap= 11
+Op Puan= 486 Gap Start= 482 Gap= -6
+Op Puan= 6000 Gap Start= 515 Gap= 125
+Op Puan= 16536 Gap Start= 667 Gap= 159
+Op Puan= 6440 Gap Start= 843 Gap= -23
+Machine Total Puan= 114986
+Op Puan= 7882 Gap Start= 0 Gap= -14
+Op Puan= 1126 Gap Start= 0 Gap= 2
+Op Puan= 27450 Gap Start= 14 Gap= 50
+Op Puan= 1440 Gap Start= 83 Gap= -3
+Op Puan= 1836 Gap Start= 104 Gap= -4
+Op Puan= 15336 Gap Start= 137 Gap= 36
+Op Puan= 6444 Gap Start= 205 Gap= 18
+Op Puan= 5216 Gap Start= 237 Gap= -16
+Op Puan= 624 Gap Start= 251 Gap= -2
+Op Puan= 1128 Gap Start= 281 Gap= 4
+Op Puan= 2000 Gap Start= 313 Gap= 8
+Op Puan= 4440 Gap Start= 341 Gap= -20
+Op Puan= 202 Gap Start= 361 Gap= 1
+Op Puan= 10692 Gap Start= 401 Gap= 66
+Op Puan= 7938 Gap Start= 482 Gap= 98
+Op Puan= 429 Gap Start= 596 Gap= -13
+Op Puan= 49 Gap Start= 612 Gap= -1
+Op Puan= 1248 Gap Start= 641 Gap= 16
+Op Puan= 11232 Gap Start= 671 Gap= 104
+Op Puan= 2820 Gap Start= 798 Gap= -12
+Machine Total Puan= 109532
+Op Puan= 22520 Gap Start= 0 Gap= -40
+Op Puan= 2252 Gap Start= 0 Gap= 4
+Op Puan= 6276 Gap Start= 40 Gap= 12
+Op Puan= 60579 Gap Start= 86 Gap= 127
+Op Puan= 14190 Gap Start= 233 Gap= 43
+Op Puan= 2056 Gap Start= 306 Gap= -8
+Op Puan= 0 Gap Start= 336 Gap= 0
+Op Puan= 3969 Gap Start= 374 Gap= 21
+Op Puan= 1812 Gap Start= 412 Gap= -12
+Op Puan= 2010 Gap Start= 429 Gap= 15
+Op Puan= 840 Gap Start= 458 Gap= -8
+Op Puan= 1456 Gap Start= 472 Gap= -16
+Op Puan= 759 Gap Start= 494 Gap= 11
+Op Puan= 279 Gap Start= 532 Gap= -9
+Op Puan= 52 Gap Start= 559 Gap= 13
+Op Puan= 0 Gap Start= 595 Gap= 0
+Op Puan= 2255 Gap Start= 618 Gap= 41
+Op Puan= 610 Gap Start= 685 Gap= -5
+Op Puan= 2960 Gap Start= 711 Gap= 20
+Op Puan= 179 Gap Start= 742 Gap= -1
+Machine Total Puan= 125054
+Op Puan= 8445 Gap Start= 0 Gap= -15
+Op Puan= 50670 Gap Start= 0 Gap= 90
+Op Puan= 11040 Gap Start= 103 Gap= -24
+Op Puan= 11175 Gap Start= 116 Gap= 25
+Op Puan= 3591 Gap Start= 164 Gap= 9
+Op Puan= 6768 Gap Start= 187 Gap= -18
+Op Puan= 5430 Gap Start= 201 Gap= 15
+Op Puan= 2970 Gap Start= 233 Gap= -9
+Op Puan= 4695 Gap Start= 250 Gap= 15
+Op Puan= 287 Gap Start= 276 Gap= -1
+Op Puan= 8280 Gap Start= 287 Gap= 30
+Op Puan= 10850 Gap Start= 346 Gap= 50
+Op Puan= 15732 Gap Start= 425 Gap= 114
+Op Puan= 832 Gap Start= 555 Gap= 104
+Op Puan= 7020 Gap Start= 671 Gap= 65
+Op Puan= 20604 Gap Start= 767 Gap= 101
+Op Puan= 1352 Gap Start= 901 Gap= 4
+Op Puan= 2226 Gap Start= 934 Gap= -6
+Op Puan= 6400 Gap Start= 963 Gap= 16
+Op Puan= 6525 Gap Start= 998 Gap= -15
+Machine Total Puan= 184892
+Op Puan= 5630 Gap Start= 0 Gap= -10
+Op Puan= 12328 Gap Start= 27 Gap= 23
+Op Puan= 34009 Gap Start= 84 Gap= 71
+Op Puan= 15703 Gap Start= 180 Gap= 41
+Op Puan= 966 Gap Start= 241 Gap= 3
+Op Puan= 906 Gap Start= 261 Gap= 3
+Op Puan= 21660 Gap Start= 278 Gap= 76
+Op Puan= 2376 Gap Start= 365 Gap= 12
+Op Puan= 344 Gap Start= 391 Gap= 2
+Op Puan= 6090 Gap Start= 418 Gap= 42
+Op Puan= 966 Gap Start= 494 Gap= 14
+Op Puan= 315 Gap Start= 528 Gap= -9
+Op Puan= 108 Gap Start= 559 Gap= 27
+Op Puan= 468 Gap Start= 599 Gap= -13
+Op Puan= 1274 Gap Start= 612 Gap= 26
+Op Puan= 7372 Gap Start= 660 Gap= 76
+Op Puan= 639 Gap Start= 776 Gap= 3
+Op Puan= 759 Gap Start= 816 Gap= -3
+Op Puan= 1450 Gap Start= 853 Gap= 5
+Op Puan= 9240 Gap Start= 893 Gap= 28
+Machine Total Puan= 122603
+Op Puan= 29276 Gap Start= 0 Gap= 52
+Op Puan= 495 Gap Start= 68 Gap= 1
+Op Puan= 1437 Gap Start= 84 Gap= -3
+Op Puan= 3178 Gap Start= 109 Gap= -7
+Op Puan= 11076 Gap Start= 137 Gap= 26
+Op Puan= 15621 Gap Start= 182 Gap= 41
+Op Puan= 2544 Gap Start= 245 Gap= -8
+Op Puan= 16872 Gap Start= 267 Gap= 57
+Op Puan= 1632 Gap Start= 359 Gap= 8
+Op Puan= 1521 Gap Start= 394 Gap= 9
+Op Puan= 142 Gap Start= 421 Gap= -1
+Op Puan= 496 Gap Start= 439 Gap= -4
+Op Puan= 8820 Gap Start= 458 Gap= 84
+Op Puan= 132 Gap Start= 574 Gap= 12
+Op Puan= 3465 Gap Start= 618 Gap= 63
+Op Puan= 4810 Gap Start= 693 Gap= 37
+Op Puan= 2685 Gap Start= 742 Gap= -15
+Op Puan= 1372 Gap Start= 759 Gap= 7
+Op Puan= 18326 Gap Start= 801 Gap= 77
+Op Puan= 6048 Gap Start= 899 Gap= -18
+Machine Total Puan= 129948
+Op Puan= 16327 Gap Start= 0 Gap= 29
+Op Puan= 1006 Gap Start= 60 Gap= -2
+Op Puan= 0 Gap Start= 91 Gap= 0
+Op Puan= 2195 Gap Start= 124 Gap= 5
+Op Puan= 812 Gap Start= 157 Gap= -2
+Op Puan= 6048 Gap Start= 185 Gap= 16
+Op Puan= 12528 Gap Start= 215 Gap= 36
+Op Puan= 30401 Gap Start= 262 Gap= 101
+Op Puan= 1134 Gap Start= 374 Gap= -6
+Op Puan= 6942 Gap Start= 385 Gap= 39
+Op Puan= 4551 Gap Start= 452 Gap= 41
+Op Puan= 232 Gap Start= 505 Gap= -4
+Op Puan= 372 Gap Start= 532 Gap= 12
+Op Puan= 0 Gap Start= 563 Gap= 112
+Op Puan= 256 Gap Start= 691 Gap= -2
+Op Puan= 432 Gap Start= 707 Gap= 3
+Op Puan= 810 Gap Start= 725 Gap= -5
+Op Puan= 5040 Gap Start= 743 Gap= 28
+Op Puan= 3660 Gap Start= 807 Gap= 15
+Op Puan= 568 Gap Start= 847 Gap= -2
+Machine Total Puan= 93314
+Op Puan= 10134 Gap Start= 0 Gap= 18
+Op Puan= 3072 Gap Start= 51 Gap= 6
+Op Puan= 1916 Gap Start= 84 Gap= -4
+Op Puan= 4068 Gap Start= 111 Gap= -9
+Op Puan= 9262 Gap Start= 142 Gap= 22
+Op Puan= 21336 Gap Start= 182 Gap= 56
+Op Puan= 12520 Gap Start= 250 Gap= 40
+Op Puan= 1004 Gap Start= 312 Gap= -4
+Op Puan= 13282 Gap Start= 334 Gap= 58
+Op Puan= 906 Gap Start= 412 Gap= 6
+Op Puan= 5633 Gap Start= 432 Gap= 43
+Op Puan= 612 Gap Start= 495 Gap= 9
+Op Puan= 1008 Gap Start= 515 Gap= -21
+Op Puan= 37 Gap Start= 526 Gap= -1
+Op Puan= 345 Gap Start= 558 Gap= 69
+Op Puan= 1650 Gap Start= 638 Gap= 22
+Op Puan= 952 Gap Start= 682 Gap= 8
+Op Puan= 10857 Gap Start= 704 Gap= 77
+Op Puan= 24794 Gap Start= 816 Gap= 98
+Op Puan= 7720 Gap Start= 949 Gap= 20
+Machine Total Puan= 131108
+Op Puan= 14075 Gap Start= 0 Gap= -25
+Op Puan= 0 Gap Start= 0 Gap= 0
+Op Puan= 86080 Gap Start= 25 Gap= 160
+Op Puan= 4200 Gap Start= 213 Gap= -12
+Op Puan= 4830 Gap Start= 241 Gap= 15
+Op Puan= 2538 Gap Start= 281 Gap= -9
+Op Puan= 3855 Gap Start= 306 Gap= 15
+Op Puan= 223 Gap Start= 340 Gap= -1
+Op Puan= 816 Gap Start= 359 Gap= 4
+Op Puan= 1840 Gap Start= 379 Gap= -10
+Op Puan= 1848 Gap Start= 395 Gap= -11
+Op Puan= 2556 Gap Start= 421 Gap= 18
+Op Puan= 735 Gap Start= 458 Gap= -7
+Op Puan= 1290 Gap Start= 477 Gap= 15
+Op Puan= 1080 Gap Start= 503 Gap= -18
+Op Puan= 833 Gap Start= 514 Gap= 17
+Op Puan= 20 Gap Start= 543 Gap= 1
+Op Puan= 176 Gap Start= 555 Gap= -22
+Op Puan= 3 Gap Start= 566 Gap= 1
+Op Puan= 10332 Gap Start= 599 Gap= 287
+Machine Total Puan= 137330
+Op Puan= 19142 Gap Start= 0 Gap= -34
+Op Puan= 4504 Gap Start= 0 Gap= 8
+Op Puan= 5819 Gap Start= 34 Gap= 11
+Op Puan= 2012 Gap Start= 60 Gap= 4
+Op Puan= 61312 Gap Start= 84 Gap= 128
+Op Puan= 939 Gap Start= 250 Gap= 3
+Op Puan= 3300 Gap Start= 288 Gap= 12
+Op Puan= 720 Gap Start= 323 Gap= -3
+Op Puan= 1736 Gap Start= 346 Gap= 8
+Op Puan= 1337 Gap Start= 372 Gap= 7
+Op Puan= 3114 Gap Start= 390 Gap= -18
+Op Puan= 17010 Gap Start= 401 Gap= 105
+Op Puan= 1820 Gap Start= 528 Gap= 52
+Op Puan= 468 Gap Start= 599 Gap= -13
+Op Puan= 825 Gap Start= 618 Gap= 15
+Op Puan= 3393 Gap Start= 650 Gap= 39
+Op Puan= 453 Gap Start= 714 Gap= -3
+Op Puan= 2816 Gap Start= 739 Gap= 16
+Op Puan= 14484 Gap Start= 767 Gap= 71
+Op Puan= 3010 Gap Start= 864 Gap= 10
+Machine Total Puan= 148214
+Schedule Total Puan= 2048543
+
+
+
+
+Longest Time On Machines= 563
+Op Puan= 450.0 Baslangic= 0 Uzunluk= 30 Gap= 0
+Op Puan= 542.0 Baslangic= 30 Uzunluk= 32 Gap= 0
+Op Puan= 304.0 Baslangic= 62 Uzunluk= 22 Gap= 0
+Op Puan= 218.5 Baslangic= 134 Uzunluk= 13 Gap= 50
+Op Puan= 389.0 Baslangic= 147 Uzunluk= 22 Gap= 0
+Op Puan= 297.0 Baslangic= 169 Uzunluk= 16 Gap= 0
+Op Puan= 451.5 Baslangic= 187 Uzunluk= 23 Gap= 2
+Op Puan= 754.5 Baslangic= 210 Uzunluk= 33 Gap= 0
+Op Puan= 914.0 Baslangic= 336 Uzunluk= 34 Gap= 93
+Op Puan= 468.0 Baslangic= 370 Uzunluk= 14 Gap= 0
+Op Puan= 1008.0 Baslangic= 430 Uzunluk= 34 Gap= 46
+Op Puan= 1186.0 Baslangic= 464 Uzunluk= 38 Gap= 0
+Op Puan= 754.0 Baslangic= 554 Uzunluk= 20 Gap= 52
+Op Puan= 724.0 Baslangic= 596 Uzunluk= 16 Gap= 22
+Op Puan= 744.5 Baslangic= 632 Uzunluk= 15 Gap= 20
+Op Puan= 855.0 Baslangic= 757 Uzunluk= 14 Gap= 110
+Op Puan= 1191.5 Baslangic= 771 Uzunluk= 29 Gap= 0
+Op Puan= 944.5 Baslangic= 800 Uzunluk= 17 Gap= 0
+Op Puan= 889.0 Baslangic= 817 Uzunluk= 12 Gap= 0
+Op Puan= 1071.0 Baslangic= 829 Uzunluk= 22 Gap= 0
+Machine Total Puan= 
+14156.0
+Op Puan= 612.5 Baslangic= 0 Uzunluk= 35 Gap= 0
+Op Puan= 147.5 Baslangic= 35 Uzunluk= 15 Gap= 0
+Op Puan= 698.0 Baslangic= 50 Uzunluk= 36 Gap= 0
+Op Puan= 252.5 Baslangic= 192 Uzunluk= 11 Gap= 106
+Op Puan= 321.5 Baslangic= 237 Uzunluk= 13 Gap= 34
+Op Puan= 652.5 Baslangic= 472 Uzunluk= 19 Gap= 222
+Op Puan= 941.0 Baslangic= 491 Uzunluk= 30 Gap= 0
+Op Puan= 581.5 Baslangic= 521 Uzunluk= 11 Gap= 0
+Op Puan= 830.5 Baslangic= 566 Uzunluk= 23 Gap= 34
+Op Puan= 1417.0 Baslangic= 617 Uzunluk= 40 Gap= 28
+Op Puan= 1305.0 Baslangic= 657 Uzunluk= 36 Gap= 0
+Op Puan= 913.5 Baslangic= 693 Uzunluk= 21 Gap= 0
+Op Puan= 1134.5 Baslangic= 714 Uzunluk= 29 Gap= 0
+Op Puan= 1031.0 Baslangic= 743 Uzunluk= 24 Gap= 0
+Op Puan= 1567.0 Baslangic= 767 Uzunluk= 40 Gap= 0
+Op Puan= 1607.0 Baslangic= 807 Uzunluk= 40 Gap= 0
+Op Puan= 991.5 Baslangic= 847 Uzunluk= 17 Gap= 0
+Op Puan= 1548.5 Baslangic= 864 Uzunluk= 37 Gap= 0
+Op Puan= 1513.5 Baslangic= 901 Uzunluk= 35 Gap= 0
+Op Puan= 1178.0 Baslangic= 936 Uzunluk= 22 Gap= 0
+Machine Total Puan= 
+19244.0
+Op Puan= 612.5 Baslangic= 0 Uzunluk= 35 Gap= 0
+Op Puan= 163.0 Baslangic= 35 Uzunluk= 16 Gap= 0
+Op Puan= 195.5 Baslangic= 51 Uzunluk= 17 Gap= 0
+Op Puan= 868.0 Baslangic= 68 Uzunluk= 40 Gap= 0
+Op Puan= 469.0 Baslangic= 181 Uzunluk= 24 Gap= 73
+Op Puan= 970.0 Baslangic= 248 Uzunluk= 38 Gap= 43
+Op Puan= 901.5 Baslangic= 421 Uzunluk= 31 Gap= 135
+Op Puan= 512.5 Baslangic= 452 Uzunluk= 11 Gap= 0
+Op Puan= 975.0 Baslangic= 463 Uzunluk= 32 Gap= 0
+Op Puan= 1073.0 Baslangic= 495 Uzunluk= 34 Gap= 0
+Op Puan= 1107.0 Baslangic= 529 Uzunluk= 34 Gap= 0
+Op Puan= 707.5 Baslangic= 563 Uzunluk= 17 Gap= 0
+Op Puan= 708.0 Baslangic= 580 Uzunluk= 16 Gap= 0
+Op Puan= 860.5 Baslangic= 596 Uzunluk= 23 Gap= 0
+Op Puan= 929.0 Baslangic= 767 Uzunluk= 18 Gap= 148
+Op Puan= 884.5 Baslangic= 800 Uzunluk= 13 Gap= 15
+Op Puan= 1020.5 Baslangic= 936 Uzunluk= 13 Gap= 123
+Op Puan= 1047.0 Baslangic= 949 Uzunluk= 14 Gap= 0
+Op Puan= 1383.5 Baslangic= 963 Uzunluk= 29 Gap= 0
+Op Puan= 1154.0 Baslangic= 992 Uzunluk= 18 Gap= 0
+Machine Total Puan= 
+16541.5
+Op Puan= 147.5 Baslangic= 35 Uzunluk= 15 Gap= 35
+Op Puan= 594.5 Baslangic= 50 Uzunluk= 33 Gap= 0
+Op Puan= 421.0 Baslangic= 83 Uzunluk= 26 Gap= 0
+Op Puan= 909.0 Baslangic= 109 Uzunluk= 40 Gap= 0
+Op Puan= 513.5 Baslangic= 149 Uzunluk= 27 Gap= 0
+Op Puan= 514.0 Baslangic= 176 Uzunluk= 26 Gap= 0
+Op Puan= 622.5 Baslangic= 202 Uzunluk= 29 Gap= 0
+Op Puan= 329.0 Baslangic= 231 Uzunluk= 14 Gap= 0
+Op Puan= 924.0 Baslangic= 276 Uzunluk= 36 Gap= 31
+Op Puan= 968.5 Baslangic= 356 Uzunluk= 35 Gap= 44
+Op Puan= 545.5 Baslangic= 401 Uzunluk= 17 Gap= 10
+Op Puan= 820.5 Baslangic= 456 Uzunluk= 27 Gap= 38
+Op Puan= 725.0 Baslangic= 483 Uzunluk= 22 Gap= 0
+Op Puan= 1265.5 Baslangic= 505 Uzunluk= 39 Gap= 0
+Op Puan= 1344.0 Baslangic= 544 Uzunluk= 40 Gap= 0
+Op Puan= 656.0 Baslangic= 584 Uzunluk= 12 Gap= 0
+Op Puan= 816.5 Baslangic= 596 Uzunluk= 21 Gap= 0
+Op Puan= 703.5 Baslangic= 619 Uzunluk= 13 Gap= 2
+Op Puan= 896.5 Baslangic= 632 Uzunluk= 23 Gap= 0
+Op Puan= 1303.0 Baslangic= 725 Uzunluk= 34 Gap= 70
+Machine Total Puan= 
+15019.5
+Op Puan= 364.5 Baslangic= 0 Uzunluk= 27 Gap= 0
+Op Puan= 642.5 Baslangic= 30 Uzunluk= 35 Gap= 3
+Op Puan= 149.5 Baslangic= 65 Uzunluk= 13 Gap= 0
+Op Puan= 224.0 Baslangic= 152 Uzunluk= 12 Gap= 74
+Op Puan= 308.5 Baslangic= 164 Uzunluk= 17 Gap= 0
+Op Puan= 241.5 Baslangic= 181 Uzunluk= 11 Gap= 0
+Op Puan= 712.0 Baslangic= 200 Uzunluk= 32 Gap= 8
+Op Puan= 394.0 Baslangic= 232 Uzunluk= 18 Gap= 0
+Op Puan= 763.0 Baslangic= 313 Uzunluk= 30 Gap= 63
+Op Puan= 585.0 Baslangic= 343 Uzunluk= 22 Gap= 0
+Op Puan= 909.5 Baslangic= 365 Uzunluk= 33 Gap= 0
+Op Puan= 762.5 Baslangic= 398 Uzunluk= 27 Gap= 0
+Op Puan= 841.5 Baslangic= 529 Uzunluk= 25 Gap= 104
+Op Puan= 1317.0 Baslangic= 595 Uzunluk= 38 Gap= 41
+Op Puan= 997.5 Baslangic= 633 Uzunluk= 27 Gap= 0
+Op Puan= 1140.5 Baslangic= 660 Uzunluk= 31 Gap= 0
+Op Puan= 1269.0 Baslangic= 691 Uzunluk= 34 Gap= 0
+Op Puan= 1237.0 Baslangic= 725 Uzunluk= 32 Gap= 0
+Op Puan= 937.5 Baslangic= 757 Uzunluk= 19 Gap= 0
+Op Puan= 888.5 Baslangic= 776 Uzunluk= 15 Gap= 0
+Machine Total Puan= 
+14685.0
+Op Puan= 544.5 Baslangic= 0 Uzunluk= 33 Gap= 0
+Op Puan= 275.0 Baslangic= 33 Uzunluk= 22 Gap= 0
+Op Puan= 419.5 Baslangic= 55 Uzunluk= 27 Gap= 0
+Op Puan= 302.5 Baslangic= 82 Uzunluk= 21 Gap= 0
+Op Puan= 583.5 Baslangic= 103 Uzunluk= 31 Gap= 0
+Op Puan= 296.0 Baslangic= 134 Uzunluk= 18 Gap= 0
+Op Puan= 544.0 Baslangic= 152 Uzunluk= 28 Gap= 0
+Op Puan= 724.5 Baslangic= 180 Uzunluk= 33 Gap= 0
+Op Puan= 825.5 Baslangic= 213 Uzunluk= 35 Gap= 0
+Op Puan= 560.5 Baslangic= 248 Uzunluk= 25 Gap= 0
+Op Puan= 467.5 Baslangic= 287 Uzunluk= 19 Gap= 14
+Op Puan= 594.0 Baslangic= 306 Uzunluk= 24 Gap= 0
+Op Puan= 453.5 Baslangic= 341 Uzunluk= 15 Gap= 11
+Op Puan= 568.0 Baslangic= 440 Uzunluk= 16 Gap= 84
+Op Puan= 794.0 Baslangic= 456 Uzunluk= 26 Gap= 0
+Op Puan= 594.5 Baslangic= 482 Uzunluk= 15 Gap= 0
+Op Puan= 1275.5 Baslangic= 515 Uzunluk= 39 Gap= 18
+Op Puan= 1031.5 Baslangic= 667 Uzunluk= 27 Gap= 113
+Op Puan= 987.5 Baslangic= 843 Uzunluk= 17 Gap= 149
+Op Puan= 1660.0 Baslangic= 860 Uzunluk= 40 Gap= 0
+Machine Total Puan= 
+13501.5
+Op Puan= 98.0 Baslangic= 0 Uzunluk= 14 Gap= 0
+Op Puan= 86.0 Baslangic= 14 Uzunluk= 12 Gap= 0
+Op Puan= 263.5 Baslangic= 83 Uzunluk= 19 Gap= 57
+Op Puan= 392.0 Baslangic= 104 Uzunluk= 24 Gap= 2
+Op Puan= 821.5 Baslangic= 137 Uzunluk= 37 Gap= 9
+Op Puan= 717.0 Baslangic= 205 Uzunluk= 32 Gap= 31
+Op Puan= 335.0 Baslangic= 237 Uzunluk= 14 Gap= 0
+Op Puan= 701.0 Baslangic= 251 Uzunluk= 30 Gap= 0
+Op Puan= 793.0 Baslangic= 281 Uzunluk= 32 Gap= 0
+Op Puan= 705.0 Baslangic= 313 Uzunluk= 28 Gap= 0
+Op Puan= 541.0 Baslangic= 341 Uzunluk= 20 Gap= 0
+Op Puan= 1161.0 Baslangic= 361 Uzunluk= 40 Gap= 0
+Op Puan= 1161.5 Baslangic= 401 Uzunluk= 39 Gap= 0
+Op Puan= 594.5 Baslangic= 482 Uzunluk= 15 Gap= 42
+Op Puan= 724.0 Baslangic= 596 Uzunluk= 16 Gap= 99
+Op Puan= 1032.5 Baslangic= 612 Uzunluk= 29 Gap= 0
+Op Puan= 1091.0 Baslangic= 641 Uzunluk= 30 Gap= 0
+Op Puan= 769.0 Baslangic= 671 Uzunluk= 14 Gap= 0
+Op Puan= 1062.5 Baslangic= 798 Uzunluk= 23 Gap= 113
+Op Puan= 1433.5 Baslangic= 821 Uzunluk= 35 Gap= 0
+Machine Total Puan= 
+14482.5
+Op Puan= 800.0 Baslangic= 0 Uzunluk= 40 Gap= 0
+Op Puan= 688.0 Baslangic= 40 Uzunluk= 36 Gap= 0
+Op Puan= 664.0 Baslangic= 86 Uzunluk= 34 Gap= 10
+Op Puan= 433.0 Baslangic= 233 Uzunluk= 20 Gap= 113
+Op Puan= 756.0 Baslangic= 306 Uzunluk= 30 Gap= 53
+Op Puan= 1058.0 Baslangic= 336 Uzunluk= 38 Gap= 0
+Op Puan= 1096.0 Baslangic= 374 Uzunluk= 38 Gap= 0
+Op Puan= 556.5 Baslangic= 412 Uzunluk= 17 Gap= 0
+Op Puan= 849.5 Baslangic= 429 Uzunluk= 29 Gap= 0
+Op Puan= 556.0 Baslangic= 458 Uzunluk= 14 Gap= 0
+Op Puan= 714.0 Baslangic= 472 Uzunluk= 22 Gap= 0
+Op Puan= 1216.0 Baslangic= 494 Uzunluk= 38 Gap= 0
+Op Puan= 896.5 Baslangic= 532 Uzunluk= 27 Gap= 0
+Op Puan= 1207.0 Baslangic= 559 Uzunluk= 36 Gap= 0
+Op Puan= 859.5 Baslangic= 595 Uzunluk= 23 Gap= 0
+Op Puan= 882.5 Baslangic= 618 Uzunluk= 23 Gap= 0
+Op Puan= 1023.0 Baslangic= 685 Uzunluk= 26 Gap= 44
+Op Puan= 1191.5 Baslangic= 711 Uzunluk= 31 Gap= 0
+Op Puan= 802.5 Baslangic= 742 Uzunluk= 11 Gap= 0
+Op Puan= 1221.0 Baslangic= 771 Uzunluk= 30 Gap= 18
+Machine Total Puan= 
+17470.5
+Op Puan= 112.5 Baslangic= 0 Uzunluk= 15 Gap= 0
+Op Puan= 187.5 Baslangic= 103 Uzunluk= 13 Gap= 88
+Op Puan= 800.5 Baslangic= 116 Uzunluk= 37 Gap= 0
+Op Puan= 428.5 Baslangic= 164 Uzunluk= 23 Gap= 11
+Op Puan= 285.0 Baslangic= 187 Uzunluk= 14 Gap= 0
+Op Puan= 713.0 Baslangic= 201 Uzunluk= 32 Gap= 0
+Op Puan= 377.5 Baslangic= 233 Uzunluk= 17 Gap= 0
+Op Puan= 588.0 Baslangic= 250 Uzunluk= 26 Gap= 0
+Op Puan= 336.5 Baslangic= 276 Uzunluk= 11 Gap= 0
+Op Puan= 359.0 Baslangic= 287 Uzunluk= 12 Gap= 0
+Op Puan= 766.5 Baslangic= 346 Uzunluk= 29 Gap= 47
+Op Puan= 845.5 Baslangic= 425 Uzunluk= 29 Gap= 50
+Op Puan= 683.0 Baslangic= 555 Uzunluk= 16 Gap= 101
+Op Puan= 743.0 Baslangic= 671 Uzunluk= 12 Gap= 100
+Op Puan= 1247.5 Baslangic= 767 Uzunluk= 31 Gap= 84
+Op Puan= 1445.5 Baslangic= 901 Uzunluk= 33 Gap= 103
+Op Puan= 1354.5 Baslangic= 934 Uzunluk= 29 Gap= 0
+Op Puan= 1575.5 Baslangic= 963 Uzunluk= 35 Gap= 0
+Op Puan= 1178.5 Baslangic= 998 Uzunluk= 19 Gap= 0
+Op Puan= 1595.0 Baslangic= 1017 Uzunluk= 34 Gap= 0
+Machine Total Puan= 
+15622.5
+Op Puan= 711.5 Baslangic= 27 Uzunluk= 37 Gap= 27
+Op Puan= 662.0 Baslangic= 84 Uzunluk= 34 Gap= 20
+Op Puan= 492.5 Baslangic= 180 Uzunluk= 25 Gap= 62
+Op Puan= 441.0 Baslangic= 241 Uzunluk= 20 Gap= 36
+Op Puan= 405.5 Baslangic= 261 Uzunluk= 17 Gap= 0
+Op Puan= 376.0 Baslangic= 278 Uzunluk= 14 Gap= 0
+Op Puan= 425.5 Baslangic= 365 Uzunluk= 11 Gap= 73
+Op Puan= 489.0 Baslangic= 391 Uzunluk= 14 Gap= 15
+Op Puan= 730.5 Baslangic= 418 Uzunluk= 25 Gap= 13
+Op Puan= 1072.0 Baslangic= 494 Uzunluk= 34 Gap= 51
+Op Puan= 728.0 Baslangic= 528 Uzunluk= 20 Gap= 0
+Op Puan= 1359.0 Baslangic= 559 Uzunluk= 40 Gap= 11
+Op Puan= 683.5 Baslangic= 599 Uzunluk= 13 Gap= 0
+Op Puan= 950.0 Baslangic= 612 Uzunluk= 26 Gap= 0
+Op Puan= 902.0 Baslangic= 660 Uzunluk= 22 Gap= 22
+Op Puan= 1576.0 Baslangic= 776 Uzunluk= 40 Gap= 94
+Op Puan= 1500.5 Baslangic= 816 Uzunluk= 37 Gap= 0
+Op Puan= 1653.0 Baslangic= 853 Uzunluk= 40 Gap= 0
+Op Puan= 1505.5 Baslangic= 893 Uzunluk= 35 Gap= 0
+Op Puan= 1018.5 Baslangic= 934 Uzunluk= 13 Gap= 6
+Machine Total Puan= 
+17681.5
+Op Puan= 196.0 Baslangic= 68 Uzunluk= 16 Gap= 68
+Op Puan= 196.5 Baslangic= 84 Uzunluk= 15 Gap= 0
+Op Puan= 501.0 Baslangic= 109 Uzunluk= 28 Gap= 10
+Op Puan= 749.5 Baslangic= 137 Uzunluk= 35 Gap= 0
+Op Puan= 362.5 Baslangic= 182 Uzunluk= 19 Gap= 10
+Op Puan= 487.0 Baslangic= 245 Uzunluk= 22 Gap= 44
+Op Puan= 717.0 Baslangic= 267 Uzunluk= 30 Gap= 0
+Op Puan= 971.5 Baslangic= 359 Uzunluk= 35 Gap= 62
+Op Puan= 758.5 Baslangic= 394 Uzunluk= 27 Gap= 0
+Op Puan= 583.0 Baslangic= 421 Uzunluk= 18 Gap= 0
+Op Puan= 619.5 Baslangic= 439 Uzunluk= 19 Gap= 0
+Op Puan= 722.5 Baslangic= 458 Uzunluk= 23 Gap= 0
+Op Puan= 1086.0 Baslangic= 574 Uzunluk= 32 Gap= 93
+Op Puan= 1130.0 Baslangic= 618 Uzunluk= 32 Gap= 12
+Op Puan= 765.0 Baslangic= 693 Uzunluk= 12 Gap= 43
+Op Puan= 814.0 Baslangic= 742 Uzunluk= 12 Gap= 37
+Op Puan= 1271.0 Baslangic= 759 Uzunluk= 32 Gap= 5
+Op Puan= 1413.5 Baslangic= 801 Uzunluk= 35 Gap= 10
+Op Puan= 1119.5 Baslangic= 899 Uzunluk= 21 Gap= 63
+Op Puan= 1680.5 Baslangic= 920 Uzunluk= 39 Gap= 0
+Machine Total Puan= 
+16144.0
+Op Puan= 540.5 Baslangic= 60 Uzunluk= 31 Gap= 60
+Op Puan= 635.5 Baslangic= 91 Uzunluk= 33 Gap= 0
+Op Puan= 668.5 Baslangic= 124 Uzunluk= 33 Gap= 0
+Op Puan= 549.0 Baslangic= 157 Uzunluk= 28 Gap= 0
+Op Puan= 635.0 Baslangic= 185 Uzunluk= 30 Gap= 0
+Op Puan= 313.0 Baslangic= 215 Uzunluk= 14 Gap= 0
+Op Puan= 322.5 Baslangic= 262 Uzunluk= 11 Gap= 33
+Op Puan= 434.5 Baslangic= 374 Uzunluk= 11 Gap= 101
+Op Puan= 529.5 Baslangic= 385 Uzunluk= 17 Gap= 0
+Op Puan= 844.0 Baslangic= 452 Uzunluk= 28 Gap= 50
+Op Puan= 577.0 Baslangic= 505 Uzunluk= 12 Gap= 25
+Op Puan= 1012.5 Baslangic= 532 Uzunluk= 31 Gap= 15
+Op Puan= 743.5 Baslangic= 563 Uzunluk= 19 Gap= 0
+Op Puan= 819.0 Baslangic= 691 Uzunluk= 16 Gap= 109
+Op Puan= 869.0 Baslangic= 707 Uzunluk= 18 Gap= 0
+Op Puan= 837.5 Baslangic= 725 Uzunluk= 15 Gap= 0
+Op Puan= 1007.5 Baslangic= 743 Uzunluk= 23 Gap= 3
+Op Puan= 1455.0 Baslangic= 807 Uzunluk= 36 Gap= 41
+Op Puan= 1159.5 Baslangic= 847 Uzunluk= 25 Gap= 4
+Op Puan= 1236.5 Baslangic= 872 Uzunluk= 27 Gap= 0
+Machine Total Puan= 
+15189.0
+Op Puan= 595.5 Baslangic= 51 Uzunluk= 33 Gap= 51
+Op Puan= 448.5 Baslangic= 84 Uzunluk= 27 Gap= 0
+Op Puan= 591.5 Baslangic= 111 Uzunluk= 31 Gap= 0
+Op Puan= 942.0 Baslangic= 142 Uzunluk= 40 Gap= 0
+Op Puan= 344.0 Baslangic= 182 Uzunluk= 18 Gap= 0
+Op Puan= 322.0 Baslangic= 250 Uzunluk= 12 Gap= 50
+Op Puan= 554.0 Baslangic= 312 Uzunluk= 22 Gap= 50
+Op Puan= 672.0 Baslangic= 334 Uzunluk= 26 Gap= 0
+Op Puan= 612.0 Baslangic= 412 Uzunluk= 20 Gap= 52
+Op Puan= 530.0 Baslangic= 432 Uzunluk= 14 Gap= 0
+Op Puan= 695.0 Baslangic= 495 Uzunluk= 20 Gap= 49
+Op Puan= 575.5 Baslangic= 515 Uzunluk= 11 Gap= 0
+Op Puan= 1038.0 Baslangic= 526 Uzunluk= 32 Gap= 0
+Op Puan= 1102.5 Baslangic= 558 Uzunluk= 33 Gap= 0
+Op Puan= 698.5 Baslangic= 638 Uzunluk= 11 Gap= 47
+Op Puan= 924.0 Baslangic= 682 Uzunluk= 22 Gap= 33
+Op Puan= 802.0 Baslangic= 704 Uzunluk= 14 Gap= 0
+Op Puan= 1428.5 Baslangic= 816 Uzunluk= 35 Gap= 98
+Op Puan= 1561.5 Baslangic= 949 Uzunluk= 35 Gap= 98
+Op Puan= 1096.5 Baslangic= 984 Uzunluk= 15 Gap= 0
+Machine Total Puan= 
+15533.5
+Op Puan= 312.5 Baslangic= 0 Uzunluk= 25 Gap= 0
+Op Puan= 337.5 Baslangic= 25 Uzunluk= 25 Gap= 0
+Op Puan= 605.0 Baslangic= 213 Uzunluk= 28 Gap= 163
+Op Puan= 1041.0 Baslangic= 241 Uzunluk= 40 Gap= 0
+Op Puan= 593.5 Baslangic= 281 Uzunluk= 25 Gap= 0
+Op Puan= 884.0 Baslangic= 306 Uzunluk= 34 Gap= 0
+Op Puan= 520.5 Baslangic= 340 Uzunluk= 19 Gap= 0
+Op Puan= 559.0 Baslangic= 359 Uzunluk= 20 Gap= 0
+Op Puan= 507.0 Baslangic= 379 Uzunluk= 16 Gap= 0
+Op Puan= 733.0 Baslangic= 395 Uzunluk= 26 Gap= 0
+Op Puan= 1105.5 Baslangic= 421 Uzunluk= 37 Gap= 0
+Op Puan= 638.5 Baslangic= 458 Uzunluk= 19 Gap= 0
+Op Puan= 815.0 Baslangic= 477 Uzunluk= 26 Gap= 0
+Op Puan= 563.5 Baslangic= 503 Uzunluk= 11 Gap= 0
+Op Puan= 934.5 Baslangic= 514 Uzunluk= 29 Gap= 0
+Op Puan= 615.0 Baslangic= 543 Uzunluk= 12 Gap= 0
+Op Puan= 615.5 Baslangic= 555 Uzunluk= 11 Gap= 0
+Op Puan= 1110.5 Baslangic= 566 Uzunluk= 33 Gap= 0
+Op Puan= 1111.0 Baslangic= 599 Uzunluk= 32 Gap= 0
+Op Puan= 1106.0 Baslangic= 906 Uzunluk= 20 Gap= 275
+Machine Total Puan= 
+14708.0
+Op Puan= 578.0 Baslangic= 0 Uzunluk= 34 Gap= 0
+Op Puan= 372.0 Baslangic= 34 Uzunluk= 26 Gap= 0
+Op Puan= 172.5 Baslangic= 60 Uzunluk= 15 Gap= 0
+Op Puan= 284.0 Baslangic= 84 Uzunluk= 20 Gap= 9
+Op Puan= 972.0 Baslangic= 250 Uzunluk= 38 Gap= 146
+Op Puan= 900.5 Baslangic= 288 Uzunluk= 35 Gap= 0
+Op Puan= 587.5 Baslangic= 323 Uzunluk= 23 Gap= 0
+Op Puan= 684.0 Baslangic= 346 Uzunluk= 26 Gap= 0
+Op Puan= 534.0 Baslangic= 372 Uzunluk= 18 Gap= 0
+Op Puan= 450.5 Baslangic= 390 Uzunluk= 11 Gap= 0
+Op Puan= 821.5 Baslangic= 401 Uzunluk= 29 Gap= 0
+Op Puan= 770.0 Baslangic= 528 Uzunluk= 22 Gap= 98
+Op Puan= 779.5 Baslangic= 599 Uzunluk= 19 Gap= 49
+Op Puan= 1130.0 Baslangic= 618 Uzunluk= 32 Gap= 0
+Op Puan= 794.5 Baslangic= 650 Uzunluk= 17 Gap= 0
+Op Puan= 1026.5 Baslangic= 714 Uzunluk= 25 Gap= 47
+Op Puan= 1131.0 Baslangic= 739 Uzunluk= 28 Gap= 0
+Op Puan= 839.0 Baslangic= 767 Uzunluk= 12 Gap= 0
+Op Puan= 1202.0 Baslangic= 864 Uzunluk= 26 Gap= 85
+Op Puan= 1018.0 Baslangic= 890 Uzunluk= 16 Gap= 0
+Machine Total Puan= 
+15047.0
+Schedule Total Puan= 235026.0
+

@@ -1,0 +1,620 @@
+
+Dosya Adi: \abz5_0c3c3d3dd6eb9dda57c029b083b62249_solution_order.txt
+
+Dosya Adi: \abz5_0c3c3d3dd6eb9dda57c029b083b62249_solution_start.txt
+
+Dosya Adi: \abz5_41b9efeaba765126b19f478fdd0020f9_solution_order.txt
+
+Dosya Adi: \abz5_41b9efeaba765126b19f478fdd0020f9_solution_start.txt
+
+Dosya Adi: \abz5_599cbbc8142ac0bcec1c19e49eaad107_solution_order.txt
+
+Dosya Adi: \abz5_599cbbc8142ac0bcec1c19e49eaad107_solution_start.txt
+
+Dosya Adi: \abz5_660924c07c269b2a5b693c4485f53f8b_solution_order.txt
+
+Dosya Adi: \abz5_660924c07c269b2a5b693c4485f53f8b_solution_start.txt
+
+Dosya Adi: \abz5_73616e15a35d3d06d76ca651b837fb34_solution_order.txt
+
+Dosya Adi: \abz5_73616e15a35d3d06d76ca651b837fb34_solution_start.txt
+
+Dosya Adi: \abz5_77c44fa36f02e101569518e4be0aa3ad_solution_order.txt
+
+Dosya Adi: \abz5_77c44fa36f02e101569518e4be0aa3ad_solution_start.txt
+
+Dosya Adi: \abz5_ac8c0bcfacbcad4bdd2132c4f1862fd3_solution_order.txt
+
+Dosya Adi: \abz5_ac8c0bcfacbcad4bdd2132c4f1862fd3_solution_start.txt
+
+Dosya Adi: \abz5_d260b604a69f0af5d7fda27934813f7b_solution_order.txt
+
+Dosya Adi: \abz5_d260b604a69f0af5d7fda27934813f7b_solution_start.txt
+
+Dosya Adi: \abz5_e3b0b6170319ea5413ad29af3d9608d7_solution_order.txt
+
+Dosya Adi: \abz5_e3b0b6170319ea5413ad29af3d9608d7_solution_start.txt
+
+Dosya Adi: \abz5_fdda83ced7ec995903275db03159582c_solution_order.txt
+
+Dosya Adi: \abz5_fdda83ced7ec995903275db03159582c_solution_start.txt
+
+ Lines_p: 
+
+88	68	94	99	67	89	77	99	86	92	
+72	50	69	75	94	66	92	82	94	63	
+83	61	83	65	64	85	78	85	55	77	
+94	68	61	99	54	75	66	76	63	67	
+69	88	82	95	99	67	95	68	67	86	
+99	81	64	66	80	80	69	62	79	88	
+50	86	97	96	95	97	66	99	52	71	
+98	73	82	51	71	94	85	62	95	79	
+94	71	81	85	66	90	76	58	93	97	
+50	59	82	67	56	96	58	81	59	96	
+abz5_0c3c3d3dd6eb9dda57c029b083b62249_solution_start.txt
+
+ s2Order: 
+
+8	2	9	4	7	6	3	1	0	5	
+5	6	2	7	9	3	8	0	1	4	
+7	3	1	4	5	8	0	6	2	9	
+4	9	1	7	8	6	3	5	2	0	
+7	4	5	0	1	6	3	8	2	9	
+1	5	7	2	0	4	3	8	6	9	
+7	8	1	5	2	0	4	3	9	6	
+3	6	8	7	9	5	2	4	0	1	
+2	4	0	9	5	7	1	6	8	3	
+2	4	9	7	5	0	3	8	6	1	
+
+ s2r: 
+
+0	144	227	363	554	623	827	903	1039	1125	
+0	144	230	304	375	457	518	654	995	1077	
+253	304	430	524	604	684	774	874	940	1098	
+0	69	119	171	253	527	626	852	995	1125	
+0	98	186	267	355	430	527	774	850	935	
+0	267	375	469	555	686	761	850	940	1039	
+98	171	242	331	397	461	591	686	761	1039	
+0	94	334	469	554	684	753	831	940	1077	
+83	268	363	457	524	616	711	777	908	1003	
+0	186	610	711	790	863	940	1003	1100	1171	
+abz5_41b9efeaba765126b19f478fdd0020f9_solution_start.txt
+
+ s2Order: 
+
+8	2	9	4	7	6	3	1	0	5	
+5	6	2	7	9	3	8	0	4	1	
+7	3	1	4	5	8	0	6	2	9	
+4	9	1	7	8	6	3	5	2	0	
+7	4	5	0	1	6	3	8	2	9	
+1	5	7	2	0	4	3	8	6	9	
+7	8	1	5	2	0	4	3	9	6	
+3	6	8	7	9	5	4	2	0	1	
+2	4	0	9	5	7	6	1	8	3	
+2	4	9	7	5	0	3	8	6	1	
+
+ s2r: 
+
+0	144	227	363	554	623	827	903	1039	1125	
+0	144	230	304	375	457	518	654	821	995	
+253	304	430	524	604	684	774	863	984	1124	
+0	69	119	171	253	527	626	852	1039	1125	
+0	98	186	267	355	430	527	774	899	984	
+0	267	375	469	555	686	761	850	929	1065	
+98	171	242	331	397	461	591	686	761	1028	
+0	94	334	469	554	684	754	821	940	1077	
+83	268	363	457	524	616	718	815	908	1003	
+0	186	610	711	790	863	940	1003	1100	1171	
+abz5_599cbbc8142ac0bcec1c19e49eaad107_solution_start.txt
+
+ s2Order: 
+
+8	2	9	4	7	6	3	1	0	5	
+5	6	2	7	9	3	8	0	4	1	
+7	3	1	4	5	8	0	6	2	9	
+4	9	1	7	8	6	3	5	2	0	
+7	4	5	0	1	6	3	8	2	9	
+1	5	7	2	0	4	3	8	6	9	
+7	8	1	5	2	0	4	3	9	6	
+3	6	8	7	9	5	2	4	0	1	
+2	4	0	9	5	7	1	6	8	3	
+2	4	9	7	5	0	3	8	6	1	
+
+ s2r: 
+
+0	144	227	363	554	623	827	903	1039	1125	
+0	144	230	304	375	457	518	654	898	995	
+253	304	430	524	604	684	774	874	940	1098	
+0	69	119	171	253	527	626	852	995	1125	
+0	98	186	267	355	430	527	774	850	935	
+0	267	375	469	555	686	761	850	940	1039	
+98	171	242	331	397	461	591	686	761	1039	
+0	94	334	469	554	684	753	831	940	1077	
+83	268	363	457	524	616	711	777	908	1003	
+0	186	610	711	790	863	940	1003	1100	1171	
+abz5_660924c07c269b2a5b693c4485f53f8b_solution_start.txt
+
+ s2Order: 
+
+8	2	9	4	7	6	3	1	0	5	
+5	6	2	7	9	3	8	0	4	1	
+7	3	1	4	5	8	0	6	2	9	
+4	9	1	7	8	6	3	5	2	0	
+7	4	5	0	1	6	3	8	2	9	
+1	5	7	2	0	4	3	8	6	9	
+7	8	1	5	2	0	4	3	9	6	
+3	6	8	7	9	5	2	4	0	1	
+2	4	0	9	5	7	6	1	8	3	
+2	4	9	7	5	0	3	8	6	1	
+
+ s2r: 
+
+0	144	227	363	554	623	827	903	1039	1125	
+0	144	230	304	375	457	518	654	898	995	
+253	304	430	524	604	684	774	863	935	1087	
+0	69	119	171	253	527	626	852	990	1125	
+0	98	186	267	355	430	527	774	850	935	
+0	267	375	469	555	686	761	850	929	1028	
+98	171	242	331	397	461	591	686	761	1028	
+0	94	334	469	554	684	753	831	940	1077	
+83	268	363	457	524	616	718	815	908	1003	
+0	186	610	711	790	863	940	1003	1100	1171	
+abz5_73616e15a35d3d06d76ca651b837fb34_solution_start.txt
+
+ s2Order: 
+
+8	2	9	4	7	6	3	1	0	5	
+5	6	2	7	9	3	8	0	4	1	
+7	3	1	4	5	8	0	6	2	9	
+4	9	1	7	8	6	3	5	2	0	
+7	4	5	0	1	6	3	8	2	9	
+1	5	7	2	0	4	3	8	6	9	
+7	8	1	5	2	0	4	3	9	6	
+3	6	8	7	9	5	4	2	0	1	
+2	4	0	9	5	7	1	6	8	3	
+2	4	9	7	5	0	3	8	6	1	
+
+ s2r: 
+
+0	144	227	363	554	623	827	903	1039	1125	
+0	144	230	304	375	457	518	654	821	995	
+253	304	430	524	604	684	774	874	984	1124	
+0	69	119	171	253	527	626	852	1039	1125	
+0	98	186	267	355	430	527	774	899	984	
+0	267	375	469	555	686	761	850	940	1065	
+98	171	242	331	397	461	591	686	761	1039	
+0	94	334	469	554	684	754	821	940	1077	
+83	268	363	457	524	616	711	777	908	1003	
+0	186	610	711	790	863	940	1003	1100	1171	
+abz5_77c44fa36f02e101569518e4be0aa3ad_solution_start.txt
+
+ s2Order: 
+
+8	2	9	4	7	6	3	1	0	5	
+5	6	2	7	9	3	8	0	1	4	
+7	3	1	4	5	8	0	6	2	9	
+4	9	1	7	8	6	3	5	2	0	
+7	4	5	0	1	6	3	8	2	9	
+1	5	7	2	0	4	3	8	6	9	
+7	8	1	5	2	0	4	3	9	6	
+3	6	8	7	9	5	2	4	0	1	
+2	4	0	9	5	7	6	1	8	3	
+2	4	9	7	5	0	3	8	6	1	
+
+ s2r: 
+
+0	144	227	363	554	623	827	903	1039	1125	
+0	144	230	304	375	457	518	654	995	1077	
+253	304	430	524	604	684	774	863	935	1087	
+0	69	119	171	253	527	626	852	990	1125	
+0	98	186	267	355	430	527	774	850	935	
+0	267	375	469	555	686	761	850	929	1028	
+98	171	242	331	397	461	591	686	761	1028	
+0	94	334	469	554	684	753	831	940	1077	
+83	268	363	457	524	616	718	815	908	1003	
+0	186	610	711	790	863	940	1003	1100	1171	
+abz5_ac8c0bcfacbcad4bdd2132c4f1862fd3_solution_start.txt
+
+ s2Order: 
+
+8	2	9	4	7	6	3	1	0	5	
+5	6	2	7	9	3	8	0	1	4	
+7	3	1	4	5	8	0	6	2	9	
+4	9	1	7	8	6	3	5	2	0	
+7	4	5	0	1	6	3	8	2	9	
+1	5	7	2	0	4	3	8	6	9	
+7	8	1	5	2	0	4	3	9	6	
+3	6	8	7	9	5	4	2	0	1	
+2	4	0	9	5	7	1	6	8	3	
+2	4	9	7	5	0	3	8	6	1	
+
+ s2r: 
+
+0	144	227	363	554	623	827	903	1039	1125	
+0	144	230	304	375	457	518	654	995	1077	
+253	304	430	524	604	684	774	874	984	1124	
+0	69	119	171	253	527	626	852	1039	1125	
+0	98	186	267	355	430	527	774	899	984	
+0	267	375	469	555	686	761	850	940	1065	
+98	171	242	331	397	461	591	686	761	1039	
+0	94	334	469	554	684	754	821	940	1077	
+83	268	363	457	524	616	711	777	908	1003	
+0	186	610	711	790	863	940	1003	1100	1171	
+abz5_d260b604a69f0af5d7fda27934813f7b_solution_start.txt
+
+ s2Order: 
+
+8	2	9	4	7	6	3	1	0	5	
+5	6	2	7	9	3	8	0	1	4	
+7	3	1	4	5	8	0	6	2	9	
+4	9	1	7	8	6	3	5	2	0	
+7	4	5	0	1	6	3	8	2	9	
+1	5	7	2	0	4	3	8	6	9	
+7	8	1	5	2	0	4	3	9	6	
+3	6	8	7	9	5	4	2	0	1	
+2	4	0	9	5	7	6	1	8	3	
+2	4	9	7	5	0	3	8	6	1	
+
+ s2r: 
+
+0	144	227	363	554	623	827	903	1039	1125	
+0	144	230	304	375	457	518	654	995	1077	
+253	304	430	524	604	684	774	863	984	1124	
+0	69	119	171	253	527	626	852	1039	1125	
+0	98	186	267	355	430	527	774	899	984	
+0	267	375	469	555	686	761	850	929	1065	
+98	171	242	331	397	461	591	686	761	1028	
+0	94	334	469	554	684	754	821	940	1077	
+83	268	363	457	524	616	718	815	908	1003	
+0	186	610	711	790	863	940	1003	1100	1171	
+abz5_e3b0b6170319ea5413ad29af3d9608d7_solution_start.txt
+
+ s2Order: 
+
+8	2	9	4	7	6	3	1	0	5	
+5	6	2	7	9	3	8	0	4	1	
+7	3	1	4	5	8	0	6	2	9	
+4	9	1	7	8	6	3	5	2	0	
+7	4	5	0	1	6	3	8	2	9	
+1	5	7	2	0	4	3	8	6	9	
+7	8	1	5	2	0	4	3	9	6	
+3	6	8	7	9	2	5	4	0	1	
+2	4	0	9	5	7	1	6	8	3	
+2	4	9	7	5	0	3	8	6	1	
+
+ s2r: 
+
+0	144	227	363	554	623	827	903	1039	1125	
+0	144	230	304	375	457	518	654	824	995	
+253	304	430	524	604	684	774	874	940	1098	
+0	69	119	171	253	527	626	852	995	1125	
+0	98	186	267	355	430	527	774	850	935	
+0	267	375	469	555	686	761	850	940	1039	
+98	171	242	331	397	461	591	686	761	1039	
+0	94	334	469	554	610	688	757	940	1077	
+83	268	363	457	524	616	711	777	908	1003	
+0	186	610	711	790	863	940	1003	1100	1171	
+abz5_fdda83ced7ec995903275db03159582c_solution_start.txt
+
+ s2Order: 
+
+8	2	9	4	7	6	3	1	0	5	
+5	6	2	7	9	3	8	0	1	4	
+7	3	1	4	5	8	0	6	2	9	
+4	9	1	7	8	6	3	5	2	0	
+7	4	5	0	1	6	3	8	2	9	
+1	5	7	2	0	4	3	8	6	9	
+7	8	1	5	2	0	4	3	9	6	
+3	6	8	7	9	2	5	4	0	1	
+2	4	0	9	5	7	1	6	8	3	
+2	4	9	7	5	0	3	8	6	1	
+
+ s2r: 
+
+0	144	227	363	554	623	827	903	1039	1125	
+0	144	230	304	375	457	518	654	995	1077	
+253	304	430	524	604	684	774	874	940	1098	
+0	69	119	171	253	527	626	852	995	1125	
+0	98	186	267	355	430	527	774	850	935	
+0	267	375	469	555	686	761	850	940	1039	
+98	171	242	331	397	461	591	686	761	1039	
+0	94	334	469	554	610	688	757	940	1077	
+83	268	363	457	524	616	711	777	908	1003	
+0	186	610	711	790	863	940	1003	1100	1171	
+
+SiradanCizelgeleme.py
+
+
+ s2Order: 
+
+8	9	2	4	6	1	3	7	0	5	
+5	6	3	9	2	0	7	8	1	4	
+3	7	1	0	4	5	8	6	2	9	
+4	9	1	7	8	6	3	5	0	2	
+0	7	4	5	6	1	3	8	2	9	
+1	5	0	2	7	3	4	6	8	9	
+7	8	0	1	5	2	3	4	9	6	
+3	6	8	9	2	5	7	0	1	4	
+0	2	4	9	5	1	6	7	8	3	
+2	4	9	0	5	3	1	6	7	8	
+
+ s2r: 
+
+0	119	217	451	550	728	868	1052	1151	1237	
+0	144	230	291	373	523	590	661	820	1312	
+94	341	568	662	751	818	898	988	1149	1289	
+0	69	119	259	341	452	667	1029	1237	1329	
+0	88	186	274	355	493	568	988	1064	1149	
+0	355	424	623	708	802	913	1054	1153	1230	
+186	259	330	424	493	559	721	818	913	1153	
+0	94	422	518	708	898	967	1052	1151	1245	
+88	156	356	451	559	662	728	1114	1211	1304	
+0	274	574	751	967	1029	1245	1308	1379	1458	
+
+ job_Order: 
+
+0	88	330	424	523	662	751	1052	1151	1237	
+0	119	424	493	568	662	728	820	1151	1245	
+0	156	217	373	559	623	708	1064	1149	1329	
+0	94	230	568	667	721	802	868	1029	1304	
+0	186	274	356	451	751	818	913	1245	1312	
+0	274	355	493	559	818	898	967	1029	1237	
+94	144	355	452	550	728	988	1054	1153	1308	
+88	186	259	341	590	708	967	1052	1114	1379	
+0	259	341	422	661	898	988	1153	1211	1458	
+69	119	291	451	518	574	913	1149	1230	1289	
+
+ As The Jobs 
+
+0_88	88_68	330_94	424_99	523_67	662_89	751_77	1052_99	1151_86	1237_92	
+0_72	119_50	424_69	493_75	568_94	662_66	728_92	820_82	1151_94	1245_63	
+0_83	156_61	217_83	373_65	559_64	623_85	708_78	1064_85	1149_55	1329_77	
+0_94	94_68	230_61	568_99	667_54	721_75	802_66	868_76	1029_63	1304_67	
+0_69	186_88	274_82	356_95	451_99	751_67	818_95	913_68	1245_67	1312_86	
+0_99	274_81	355_64	493_66	559_80	818_80	898_69	967_62	1029_79	1237_88	
+94_50	144_86	355_97	452_96	550_95	728_97	988_66	1054_99	1153_52	1308_71	
+88_98	186_73	259_82	341_51	590_71	708_94	967_85	1052_62	1114_95	1379_79	
+0_94	259_71	341_81	422_85	661_66	898_90	988_76	1153_58	1211_93	1458_97	
+69_50	119_59	291_82	451_67	518_56	574_96	913_58	1149_81	1230_59	1289_96	
+
+
+
+Longest Time On Machines= 868
+Op Puan= 81592 Gap Start= 0 Gap= -94
+Op Puan= 52080 Gap Start= 0 Gap= 60
+Op Puan= 11235 Gap Start= 119 Gap= 15
+Op Puan= 87885 Gap Start= 217 Gap= 135
+Op Puan= 1668 Gap Start= 451 Gap= 4
+Op Puan= 27348 Gap Start= 550 Gap= 86
+Op Puan= 8960 Gap Start= 728 Gap= 64
+Op Puan= 0 Gap Start= 868 Gap= 122
+Op Puan= 2392 Gap Start= 1052 Gap= 13
+Op Puan= 566 Gap Start= 1151 Gap= -2
+Machine Total Puan= 273726
+Op Puan= 85932 Gap Start= 0 Gap= -99
+Op Puan= 50344 Gap Start= 0 Gap= 58
+Op Puan= 18100 Gap Start= 144 Gap= 25
+Op Puan= 13398 Gap Start= 230 Gap= -21
+Op Puan= 9809 Gap Start= 291 Gap= 17
+Op Puan= 41085 Gap Start= 373 Gap= 83
+Op Puan= 1380 Gap Start= 523 Gap= -4
+Op Puan= 1390 Gap Start= 590 Gap= 5
+Op Puan= 15939 Gap Start= 661 Gap= 77
+Op Puan= 19488 Gap Start= 820 Gap= 406
+Machine Total Puan= 256865
+Op Puan= 22568 Gap Start= 0 Gap= 26
+Op Puan= 151704 Gap Start= 94 Gap= 196
+Op Puan= 70091 Gap Start= 341 Gap= 133
+Op Puan= 1500 Gap Start= 568 Gap= 5
+Op Puan= 4532 Gap Start= 662 Gap= 22
+Op Puan= 1521 Gap Start= 751 Gap= -13
+Op Puan= 500 Gap Start= 818 Gap= -10
+Op Puan= 720 Gap Start= 898 Gap= 24
+Op Puan= 12720 Gap Start= 988 Gap= 106
+Op Puan= 12364 Gap Start= 1149 Gap= 44
+Machine Total Puan= 278220
+Op Puan= 59892 Gap Start= 0 Gap= -69
+Op Puan= 16492 Gap Start= 0 Gap= 19
+Op Puan= 0 Gap Start= 69 Gap= 0
+Op Puan= 43442 Gap Start= 119 Gap= 58
+Op Puan= 609 Gap Start= 259 Gap= 1
+Op Puan= 7905 Gap Start= 341 Gap= 15
+Op Puan= 66976 Gap Start= 452 Gap= 161
+Op Puan= 56883 Gap Start= 667 Gap= 283
+Op Puan= 18676 Gap Start= 1029 Gap= 116
+Op Puan= 5535 Gap Start= 1237 Gap= 15
+Machine Total Puan= 276410
+Op Puan= 76384 Gap Start= 0 Gap= -88
+Op Puan= 8680 Gap Start= 0 Gap= -10
+Op Puan= 7800 Gap Start= 88 Gap= 10
+Op Puan= 4774 Gap Start= 186 Gap= 7
+Op Puan= 9504 Gap Start= 274 Gap= -16
+Op Puan= 32319 Gap Start= 355 Gap= 63
+Op Puan= 9000 Gap Start= 493 Gap= -24
+Op Puan= 103200 Gap Start= 568 Gap= 344
+Op Puan= 1080 Gap Start= 988 Gap= -9
+Op Puan= 784 Gap Start= 1064 Gap= 4
+Machine Total Puan= 253525
+Op Puan= 62496 Gap Start= 0 Gap= -72
+Op Puan= 252588 Gap Start= 0 Gap= 291
+Op Puan= 15390 Gap Start= 355 Gap= -30
+Op Puan= 50616 Gap Start= 424 Gap= 114
+Op Puan= 2205 Gap Start= 623 Gap= -9
+Op Puan= 4480 Gap Start= 708 Gap= 28
+Op Puan= 2838 Gap Start= 802 Gap= 43
+Op Puan= 1890 Gap Start= 913 Gap= 42
+Op Puan= 7626 Gap Start= 1054 Gap= 41
+Op Puan= 5130 Gap Start= 1153 Gap= 18
+Machine Total Puan= 405259
+Op Puan= 98084 Gap Start= 0 Gap= 113
+Op Puan= 1364 Gap Start= 186 Gap= 2
+Op Puan= 14007 Gap Start= 259 Gap= -23
+Op Puan= 13450 Gap Start= 330 Gap= 25
+Op Puan= 1332 Gap Start= 424 Gap= 3
+Op Puan= 750 Gap Start= 493 Gap= 2
+Op Puan= 26883 Gap Start= 559 Gap= 87
+Op Puan= 294 Gap Start= 721 Gap= 2
+Op Puan= 1850 Gap Start= 818 Gap= 37
+Op Puan= 8460 Gap Start= 913 Gap= 188
+Machine Total Puan= 166474
+Op Puan= 81592 Gap Start= 0 Gap= -94
+Op Puan= 38192 Gap Start= 0 Gap= 44
+Op Puan= 188082 Gap Start= 94 Gap= 243
+Op Puan= 17840 Gap Start= 422 Gap= 40
+Op Puan= 39200 Gap Start= 518 Gap= 112
+Op Puan= 19360 Gap Start= 708 Gap= 121
+Op Puan= 480 Gap Start= 898 Gap= -16
+Op Puan= 1386 Gap Start= 967 Gap= -14
+Op Puan= 920 Gap Start= 1052 Gap= 5
+Op Puan= 7641 Gap Start= 1151 Gap= 27
+Machine Total Puan= 394693
+Op Puan= 17360 Gap Start= 0 Gap= 20
+Op Puan= 5460 Gap Start= 88 Gap= 7
+Op Puan= 74760 Gap Start= 156 Gap= 105
+Op Puan= 14336 Gap Start= 356 Gap= 28
+Op Puan= 11676 Gap Start= 451 Gap= 28
+Op Puan= 11433 Gap Start= 559 Gap= 37
+Op Puan= 6386 Gap Start= 662 Gap= -31
+Op Puan= 40740 Gap Start= 728 Gap= 291
+Op Puan= 984 Gap Start= 1114 Gap= 4
+Op Puan= 8918 Gap Start= 1211 Gap= 26
+Machine Total Puan= 192053
+Op Puan= 72044 Gap Start= 0 Gap= -83
+Op Puan= 166656 Gap Start= 0 Gap= 192
+Op Puan= 121176 Gap Start= 274 Gap= 204
+Op Puan= 29400 Gap Start= 574 Gap= 100
+Op Puan= 18018 Gap Start= 751 Gap= 154
+Op Puan= 99 Gap Start= 967 Gap= -1
+Op Puan= 24633 Gap Start= 1029 Gap= 153
+Op Puan= 3016 Gap Start= 1245 Gap= -8
+Op Puan= 3520 Gap Start= 1308 Gap= -8
+Op Puan= 9198 Gap Start= 1379 Gap= -18
+Machine Total Puan= 447760
+Schedule Total Puan= 2944985
+
+
+
+
+Longest Time On Machines= 868
+Op Puan= 4418.0 Baslangic= 0 Uzunluk= 94 Gap= 0
+Op Puan= 1859.5 Baslangic= 119 Uzunluk= 59 Gap= 25
+Op Puan= 3661.5 Baslangic= 217 Uzunluk= 83 Gap= 39
+Op Puan= 5351.5 Baslangic= 451 Uzunluk= 99 Gap= 151
+Op Puan= 5062.5 Baslangic= 550 Uzunluk= 95 Gap= 0
+Op Puan= 4960.0 Baslangic= 728 Uzunluk= 92 Gap= 83
+Op Puan= 3756.0 Baslangic= 868 Uzunluk= 76 Gap= 48
+Op Puan= 2974.0 Baslangic= 1052 Uzunluk= 62 Gap= 108
+Op Puan= 4849.0 Baslangic= 1151 Uzunluk= 86 Gap= 37
+Op Puan= 5109.0 Baslangic= 1237 Uzunluk= 88 Gap= 0
+Machine Total Puan= 
+42001.0
+Op Puan= 4900.5 Baslangic= 0 Uzunluk= 99 Gap= 0
+Op Puan= 3842.0 Baslangic= 144 Uzunluk= 86 Gap= 45
+Op Puan= 2090.5 Baslangic= 230 Uzunluk= 61 Gap= 0
+Op Puan= 3653.0 Baslangic= 291 Uzunluk= 82 Gap= 0
+Op Puan= 2485.5 Baslangic= 373 Uzunluk= 65 Gap= 0
+Op Puan= 2767.5 Baslangic= 523 Uzunluk= 67 Gap= 85
+Op Puan= 3110.5 Baslangic= 590 Uzunluk= 71 Gap= 0
+Op Puan= 2839.0 Baslangic= 661 Uzunluk= 66 Gap= 0
+Op Puan= 4182.0 Baslangic= 820 Uzunluk= 82 Gap= 93
+Op Puan= 5010.0 Baslangic= 1312 Uzunluk= 86 Gap= 410
+Machine Total Puan= 
+34880.5
+Op Puan= 2406.0 Baslangic= 94 Uzunluk= 68 Gap= 94
+Op Puan= 1641.5 Baslangic= 341 Uzunluk= 51 Gap= 179
+Op Puan= 4986.0 Baslangic= 568 Uzunluk= 94 Gap= 176
+Op Puan= 4622.5 Baslangic= 662 Uzunluk= 89 Gap= 0
+Op Puan= 2995.5 Baslangic= 751 Uzunluk= 67 Gap= 0
+Op Puan= 4018.0 Baslangic= 818 Uzunluk= 80 Gap= 0
+Op Puan= 4948.0 Baslangic= 898 Uzunluk= 90 Gap= 0
+Op Puan= 3166.0 Baslangic= 988 Uzunluk= 66 Gap= 0
+Op Puan= 2661.5 Baslangic= 1149 Uzunluk= 55 Gap= 95
+Op Puan= 5897.0 Baslangic= 1289 Uzunluk= 96 Gap= 85
+Machine Total Puan= 
+37342.0
+Op Puan= 2380.5 Baslangic= 0 Uzunluk= 69 Gap= 0
+Op Puan= 1319.0 Baslangic= 69 Uzunluk= 50 Gap= 0
+Op Puan= 1369.0 Baslangic= 119 Uzunluk= 50 Gap= 0
+Op Puan= 3621.0 Baslangic= 259 Uzunluk= 82 Gap= 90
+Op Puan= 3621.5 Baslangic= 341 Uzunluk= 81 Gap= 0
+Op Puan= 5060.0 Baslangic= 452 Uzunluk= 96 Gap= 30
+Op Puan= 2125.0 Baslangic= 667 Uzunluk= 54 Gap= 119
+Op Puan= 4149.5 Baslangic= 1029 Uzunluk= 79 Gap= 308
+Op Puan= 5469.0 Baslangic= 1237 Uzunluk= 92 Gap= 129
+Op Puan= 4293.5 Baslangic= 1329 Uzunluk= 77 Gap= 0
+Machine Total Puan= 
+33408.0
+Op Puan= 3872.0 Baslangic= 0 Uzunluk= 88 Gap= 0
+Op Puan= 4890.0 Baslangic= 88 Uzunluk= 98 Gap= 0
+Op Puan= 4058.0 Baslangic= 186 Uzunluk= 88 Gap= 0
+Op Puan= 3554.5 Baslangic= 274 Uzunluk= 81 Gap= 0
+Op Puan= 5059.5 Baslangic= 355 Uzunluk= 97 Gap= 0
+Op Puan= 3305.5 Baslangic= 493 Uzunluk= 75 Gap= 41
+Op Puan= 5468.5 Baslangic= 568 Uzunluk= 99 Gap= 0
+Op Puan= 3876.0 Baslangic= 988 Uzunluk= 76 Gap= 321
+Op Puan= 4676.5 Baslangic= 1064 Uzunluk= 85 Gap= 0
+Op Puan= 4429.5 Baslangic= 1149 Uzunluk= 81 Gap= 0
+Machine Total Puan= 
+43190.0
+Op Puan= 2592.0 Baslangic= 0 Uzunluk= 72 Gap= 0
+Op Puan= 2403.0 Baslangic= 355 Uzunluk= 64 Gap= 283
+Op Puan= 5324.5 Baslangic= 424 Uzunluk= 99 Gap= 5
+Op Puan= 4235.5 Baslangic= 623 Uzunluk= 85 Gap= 100
+Op Puan= 5126.0 Baslangic= 708 Uzunluk= 94 Gap= 0
+Op Puan= 2980.0 Baslangic= 802 Uzunluk= 66 Gap= 0
+Op Puan= 3225.0 Baslangic= 913 Uzunluk= 68 Gap= 45
+Op Puan= 5954.5 Baslangic= 1054 Uzunluk= 99 Gap= 73
+Op Puan= 2835.0 Baslangic= 1153 Uzunluk= 58 Gap= 0
+Op Puan= 2970.5 Baslangic= 1230 Uzunluk= 59 Gap= 19
+Machine Total Puan= 
+37646.0
+Op Puan= 2850.5 Baslangic= 186 Uzunluk= 73 Gap= 186
+Op Puan= 2779.5 Baslangic= 259 Uzunluk= 71 Gap= 0
+Op Puan= 4748.0 Baslangic= 330 Uzunluk= 94 Gap= 0
+Op Puan= 2804.5 Baslangic= 424 Uzunluk= 69 Gap= 0
+Op Puan= 2671.0 Baslangic= 493 Uzunluk= 66 Gap= 0
+Op Puan= 2607.0 Baslangic= 559 Uzunluk= 64 Gap= 0
+Op Puan= 3533.5 Baslangic= 721 Uzunluk= 75 Gap= 98
+Op Puan= 5330.5 Baslangic= 818 Uzunluk= 95 Gap= 22
+Op Puan= 2595.0 Baslangic= 913 Uzunluk= 58 Gap= 0
+Op Puan= 2505.0 Baslangic= 1153 Uzunluk= 52 Gap= 182
+Machine Total Puan= 
+32424.5
+Op Puan= 4418.0 Baslangic= 0 Uzunluk= 94 Gap= 0
+Op Puan= 1344.0 Baslangic= 94 Uzunluk= 50 Gap= 0
+Op Puan= 4034.5 Baslangic= 422 Uzunluk= 85 Gap= 278
+Op Puan= 2086.0 Baslangic= 518 Uzunluk= 56 Gap= 11
+Op Puan= 3750.0 Baslangic= 708 Uzunluk= 78 Gap= 134
+Op Puan= 3278.5 Baslangic= 898 Uzunluk= 69 Gap= 112
+Op Puan= 4579.5 Baslangic= 967 Uzunluk= 85 Gap= 0
+Op Puan= 5952.5 Baslangic= 1052 Uzunluk= 99 Gap= 0
+Op Puan= 5569.0 Baslangic= 1151 Uzunluk= 94 Gap= 0
+Op Puan= 3489.5 Baslangic= 1245 Uzunluk= 67 Gap= 0
+Machine Total Puan= 
+38501.5
+Op Puan= 2400.0 Baslangic= 88 Uzunluk= 68 Gap= 88
+Op Puan= 2016.5 Baslangic= 156 Uzunluk= 61 Gap= 0
+Op Puan= 4868.5 Baslangic= 356 Uzunluk= 95 Gap= 139
+Op Puan= 2695.5 Baslangic= 451 Uzunluk= 67 Gap= 0
+Op Puan= 3759.0 Baslangic= 559 Uzunluk= 80 Gap= 41
+Op Puan= 2840.0 Baslangic= 662 Uzunluk= 66 Gap= 23
+Op Puan= 5432.5 Baslangic= 728 Uzunluk= 97 Gap= 0
+Op Puan= 5626.5 Baslangic= 1114 Uzunluk= 95 Gap= 289
+Op Puan= 5535.5 Baslangic= 1211 Uzunluk= 93 Gap= 2
+Op Puan= 3548.5 Baslangic= 1304 Uzunluk= 67 Gap= 0
+Machine Total Puan= 
+38722.5
+Op Puan= 3444.5 Baslangic= 0 Uzunluk= 83 Gap= 0
+Op Puan= 3636.0 Baslangic= 274 Uzunluk= 82 Gap= 191
+Op Puan= 5182.0 Baslangic= 574 Uzunluk= 96 Gap= 218
+Op Puan= 3715.5 Baslangic= 751 Uzunluk= 77 Gap= 81
+Op Puan= 2889.0 Baslangic= 967 Uzunluk= 62 Gap= 139
+Op Puan= 3013.5 Baslangic= 1029 Uzunluk= 63 Gap= 0
+Op Puan= 3229.5 Baslangic= 1245 Uzunluk= 63 Gap= 153
+Op Puan= 3828.5 Baslangic= 1308 Uzunluk= 71 Gap= 0
+Op Puan= 4499.5 Baslangic= 1379 Uzunluk= 79 Gap= 0
+Op Puan= 6162.5 Baslangic= 1458 Uzunluk= 97 Gap= 0
+Machine Total Puan= 
+39600.5
+Schedule Total Puan= 377716.5
+
